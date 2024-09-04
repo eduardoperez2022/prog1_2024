@@ -1,0 +1,29 @@
+1	Javier García 
+2	Christian Cellay 
+3	Clemente Rodríguez 
+4	José Calvo 
+5	Sebastián Battaglia 
+6	Matías Caruzzo 
+7	Pablo Mouche 
+8	Diego Rivero 
+9	Martín Palermo 
+10	Juan Román Riquelme 
+11	Walter Erviti 
+12	Maximiliano Scapparoni 
+13	Juan Insaurralde 
+14	Ricardo Noir 
+15	Nicolás Colazo 
+16	Leandro Somoza 
+17	Juan Sánchez Miño 
+18	Luciano Monzón 
+19	Enzo Ruiz 
+20	Cristian Lucchetti 
+21	Cristian Chávez 
+22	Cristian Erbes 
+23	Esteban Orfano 
+24	Sergio Araujo 
+25	Sebastián D'Angelo 
+26	Gastón Sauro 
+27	Lucas Viatri 
+28	Joel Acosta 
+29	Leandro Marín 

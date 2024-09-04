@@ -1,0 +1,29 @@
+1	Agustín Orión 
+2	Rolando Schiavi 
+3	Clemente Rodríguez 
+4	Franco Sosa 
+5	Sebastián Battaglia 
+6	Matías Caruzzo 
+7	Pablo Mouche 
+8	Diego Rivero 
+9	Lucas Viatri 
+10	Juan Román Riquelme 
+11	Walter Erviti 
+12	Sebastián D'Angelo 
+13	Sebastián Sosa 
+14	Enzo Ruiz 
+15	Nicolás Colazo 
+16	Pablo Ledesma 
+17	Nicolás Blandi 
+18	Leandro Somoza 
+19	Santiago Silva 
+20	Darío Cvitanich 
+21	Cristian Chávez 
+22	Cristian Erbes 
+23	Facundo Roncaglia 
+24	Sergio Araujo 
+25	Franco Fragapane 
+26	Gastón Sauro 
+27	Orlando Gaona Lugo 
+28	Juan Sánchez Miño 
+29	Juan Insaurralde 
